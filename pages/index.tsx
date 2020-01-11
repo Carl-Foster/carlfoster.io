@@ -8,7 +8,7 @@ import theme from '../theme'
 const Home = () => (
   <>
     <Head>
-      <title>Home</title>
+      <title>Carl Foster</title>
       <link rel="icon" href="/favicon.ico" />
     </Head>
     <ThemeProvider theme={theme}>
